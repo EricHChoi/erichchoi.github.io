@@ -3,11 +3,5 @@ logo: /images/headshot3.png
 logo_class: site-logo
 description: |
   Student at the University of Pennsylvania pursuing a MSE in Data Science and a BA in Economics with minors in Mathematics and Statistics.
-  Programming Languages: Python, R, SQL, Java, JSON | Database and Processing Tools: Snowflake, Spark, Hadoop 
 #show_downloads: true
 theme: jekyll-theme-minimal
-
-links:
-  - title: "Resume"
-    url: /images/Eric Choi - Resume.pdf  
-    icon: fa-solid fa-file-pdf
