@@ -8,5 +8,6 @@ Developed an **AI-driven football analysis system** utilizing YOLO (real-time ob
 
 ### March Madness Game Outcome Predictor
 Built a machine learning classifier for March Madness games using historical data, achieving 82.4% accuracy with Random Forest. Employed techniques like Logistic Regression, Decision Trees, and data integration from expert rankings to enhance predictions. 
+![Decision Tree img](images/marchmadness-decisiontree.png)
 
 **Technologies/Skills:** R, Machine Learning, Random Forest, Logistic Regression, Data Analysis
