@@ -6,7 +6,6 @@ Developed an **AI-driven football analysis system** utilizing YOLO (real-time ob
 ![Demo Video](images/FootballAnalysis.gif)
 
 **Technologies/Skills:** Python, YOLO, OpenCV, Video Processing, Object Detection, Model Training, Data Preprocessing
-[Github Repository](https://github.com/EricHChoi/AI-ML-Soccer-Analysis)
 
 ## March Madness Game Outcome Predictor (R)
 Built a **machine learning classifier** for March Madness games using historical data, achieving **82.4% accuracy** with Random Forest. Employed techniques like Logistic Regression, Decision Trees, and data integration from expert rankings to enhance predictions. 
