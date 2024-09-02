@@ -1,7 +1,7 @@
 # Project Portfolio
 
-## AI/ML Soccer Analysis System (Python) 
-[Github Repository](https://github.com/EricHChoi/AI-ML-Soccer-Analysis)
+## AI/ML Soccer Analysis System (Python) [Github Repository](https://github.com/EricHChoi/AI-ML-Soccer-Analysis)
+
 Developed an **AI-driven football analysis system** utilizing YOLO (real-time object detection software), OpenCV, and Python to automate player, referee, and ball detection and tracking in football match videos.
 ![Demo Video](images/FootballAnalysis.gif)
 
