@@ -15,6 +15,7 @@ Engineered and deployed a **predictive model utilizing Apache Spark and advanced
   <img src="./images/heatmap-dropoff.png" alt="Decision Tree" width="45%" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
   <img src="./images/avgtip-perday.png" alt="Final Model" width="45%" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
 </p>
+[Github Repository](https://github.com/EricHChoi/Predictive-Modeling-for-NYC-Uber-Tips)
 
 **Technologies/Skills:** SQL, Apache Spark, Python, Data Cleaning, Data Visualization, Pyspark, Regression (Vanilla, LASSO, Ridge, Elastic Net), PCA
 
