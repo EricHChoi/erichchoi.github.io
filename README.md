@@ -16,7 +16,7 @@ Engineered and deployed a **predictive model utilizing Apache Spark and advanced
   <img src="./images/avgtip-perday.png" alt="Final Model" width="45%" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
 </p>
 
-**Technologies/Skills:** SQL, Apache Spark, Python, Data Cleaning, Data Visualization, Pyspark, Regression (Vanilla, LASSO, Ridge, Elastic Net), PCA) 
+**Technologies/Skills:** SQL, Apache Spark, Python, Data Cleaning, Data Visualization, Pyspark, Regression (Vanilla, LASSO, Ridge, Elastic Net), PCA
 
 ## March Madness Game Outcome Predictor (R)
 Built a **machine learning classifier** for March Madness games using historical data, achieving **82.4% accuracy** with Random Forest. Employed techniques like Logistic Regression, Decision Trees, and data integration from expert rankings to enhance predictions. 
