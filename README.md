@@ -4,6 +4,7 @@
 
 Developed an **AI-driven football analysis system** utilizing YOLO (real-time object detection software), OpenCV, and Python to automate player, referee, and ball detection and tracking in football match videos.
 ![Demo Video](images/FootballAnalysis.gif)
+
 [Github Repository](https://github.com/EricHChoi/AI-ML-Soccer-Analysis)
 
 **Technologies/Skills:** Python, YOLO, OpenCV, Video Processing, Object Detection, Model Training, Data Preprocessing
@@ -15,6 +16,7 @@ Engineered and deployed a **predictive model utilizing Apache Spark and advanced
   <img src="./images/heatmap-dropoff.png" alt="Decision Tree" width="45%" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
   <img src="./images/avgtip-perday.png" alt="Final Model" width="45%" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
 </p>
+
 [Github Repository](https://github.com/EricHChoi/Predictive-Modeling-for-NYC-Uber-Tips)
 
 **Technologies/Skills:** SQL, Apache Spark, Python, Data Cleaning, Data Visualization, Pyspark, Regression (Vanilla, LASSO, Ridge, Elastic Net), PCA
@@ -25,6 +27,7 @@ Built a **machine learning classifier** for March Madness games using historical
   <img src="./images/marchmadness-decisiontree.png" alt="Decision Tree" width="45%" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
   <img src="./images/finalmodel.png" alt="Final Model" width="45%" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
 </p>
+
 [Github Repository](https://github.com/EricHChoi/March-Madness-Predictor-Files)
 
 **Technologies/Skills:** R, Machine Learning, Random Forest, Logistic Regression, Data Analysis
